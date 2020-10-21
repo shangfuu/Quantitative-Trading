@@ -65,3 +65,7 @@ get_expiration_dates()
 	* 空頭是投資者和股票商認為現時股價雖然較高，但對股市前景看壞，預計股價將會下跌，於是把借來的股票及時賣出，待股價跌至某一價位時再買進，以獲取差額收益。 採用這種先賣出後買進、從中賺取差價的交易方式稱為空頭。 人們通常把股價長期呈下跌趨勢的股票市場稱為空頭市場，空頭市場股價變化的特征是一連串的大跌小漲。
 * adjclose
 	* Adjusted close is the closing price after adjustments for all applicable splits and dividend distributions.
+
+## Reference
+https://towardsdatascience.com/algorithmic-trading-based-on-technical-analysis-in-python-80d445dc6943
+https://github.com/erykml/medium_articles/blob/master/Quantitative%20Finance/technical_analysis_strategies_eur_stocks.ipynb
